@@ -1,0 +1,23 @@
+
+          [
+            {
+              "id" : "1",
+              "groupManager" : "Cihan Nam",
+              "groupName" : "Fitnes Hocam Yönetim"
+            },
+            {
+              "id" : "2",
+              "groupManager" : "Yusuf Bozkurt",
+              "groupName" : "Fitnes Hocam Muhasebe"
+            },
+            {
+              "id" : "3",
+              "groupManager" : "Polat Koçak",
+              "groupName" : "Fitnes Hocam Development"
+            },
+            {
+              "id" : "4",
+              "groupManager" : "Efe Işıkyüzlü",
+              "groupName" : "Fitnes Hocam idare"
+            }
+          ]
